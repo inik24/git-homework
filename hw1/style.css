@@ -1,0 +1,10 @@
+div {
+    width: 220px;
+    background-color: #B5BBBF;
+    #first.box {height: 50px;width: 50px;background-color: #19B391;
+    display: inline-block;border: 1px solid black;}
+    #second.box {height: 50px; width: 50px;background-color: #E2721F;
+    display: inline-block;border: 1px solid black;}
+    .button {background-color: #29C566; border: 2px solid #23A456;}
+  }
+  
