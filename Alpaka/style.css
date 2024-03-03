@@ -1,0 +1,81 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+}
+
+.navbar .left-container ul{
+    display: flex;
+    list-style-type: none;
+    }
+.navbar .left-container ul li{
+    padding: 5px;
+    text-align: center;
+    }
+
+.navbar .middle-container i{
+    margin-top: 24px;
+}
+
+#input{
+    border-radius: 10px;
+}
+
+.navbar .right-container{
+    display: flex;
+}
+
+.navbar .right-container .inner-left-container img{
+    border-radius: 35px;
+    width: 35px;
+    margin-top: ;
+    position: relative;top: 12px;
+}
+
+#Tweet {
+background-color: #62B6DF;
+margin: 20px;
+border-radius: 10px;
+}
+
+div.center{
+    background-color: #62B6DF;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+#TB{
+   font-size: 200%;color: white;
+
+    }
+div.footer{
+    height: 80px;
+    /* display:flex */
+    display: flex;
+    justify-content: space-around;    
+    }
+    div.inner-footer-left{
+        width: 700px;
+        height: 100px;
+        /* overflow:hidden */
+        margin: 0;
+        }
+    .footerimg{
+        border-radius: 165px;
+        width: 165px;
+        height: 165px;
+        position: relative;top: -60px;left: -35px;
+        border: solid;color: aliceblue;
+        object-fit: none;
+        clip-path:inset(0px 0px 40px 0px);
+            } 
+#Followings {position: relative;top: -160px; left: -35px;}
+#Followers {position: relative;top: -160px; left: -35px;}
+#Favorites {position: relative;top: -160px; left: -35px;}
+#NFollowings {position: relative;top: -140px; left: -220px;}
+#NFollowers {position: relative;top: -140px; left: -170px;}
+#NFavorites {position: relative;top: -140px; left: -130px;}
+#follow{background-color: #62B6DF;border-radius: 10px;}
+
